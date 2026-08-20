@@ -126,7 +126,11 @@ cloudflared tunnel --url http://127.0.0.1:8004    # put URL in .env as PUBLIC_BA
 
 [Vobiz](https://vobiz.ai) is a programmable voice & SIP-trunking platform.
 
-Author: **Piyush Sahoo** — [LinkedIn](https://www.linkedin.com/in/piyush-s713/)
+**Maintainer:** Piyush Sahoo — [piyush@vobiz.ai](mailto:piyush@vobiz.ai) · [LinkedIn](https://www.linkedin.com/in/piyush-s713/)
+
+Questions, or want to talk through an integration? Open an issue on this repo, or reach out directly at [piyush@vobiz.ai](mailto:piyush@vobiz.ai).
+
+**Useful links:** [Docs](https://docs.vobiz.ai) · [API reference](https://docs.vobiz.ai/api-reference) · [Sign up](https://vobiz.ai)
 
 ## License
 
